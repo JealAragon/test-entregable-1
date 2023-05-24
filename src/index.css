@@ -52,5 +52,16 @@ img {
 }
 
 p{
-  color: aliceblue;
+  color: black;
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 70px 33px;
+  gap: 10px;
+  width: 452.52px;
+  height: 266px;
+  background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0.33) 100%);
+  border-radius: 39px;
 }
+
